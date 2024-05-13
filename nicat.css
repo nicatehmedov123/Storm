@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Mulish",sans-serif;
+}
+img{
+    width: 100%;
+}
+.cointainer{
+    width: 100%;
+    max-width: 1140px;
+    margin-inline: auto;
+}
+.Section-Heading{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.Section-Heading p{
+    width: 530px;
+    margin-inline: auto;
+    margin-bottom: 3rem;
+}
+.Section-Heading h2{
+    font-weight: 900px;
+    color: black;
+    margin-bottom: 1rem;
+
+    font-size: 3rem;
+}
+.Section-cards{
+    display: flex;
+    gap: 30px;
+
+}
+.Section-card{
+    border: 1px solid gray;
+    padding: 30px;
+   margin-bottom: 2rem;
+    text-align: center;
+    height: 550px;
+}
+.Section-card img{
+    border-radius: 50%;
+    width: 70%;
+margin-top: -100px;
+}
+.Section-card h5{
+    color: black;
+    font-size: 1.5rem;
+    margin: bottom 0.5rem; ;
+}
+.Teacher-job{
+    color: white;
+    margin-bottom:1rem;
+
+}
+.Teacher-about{
+    margin-bottom: 1rem;
+}
+.body{
+    font-size: 20px;
+}
